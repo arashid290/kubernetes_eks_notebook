@@ -37,3 +37,7 @@ This repository consists of the following notebooks:
 </ol>
 <br><br> Note these notebooks will work for Mac and Linux on Windows the Jupyter magics will not work correctly
 <br><br> Reference: https://eksworkshop.com/
+<br><br> Adnan Study Website: https://adnan.study
+<br><br> LinkedIn: https://https://www.linkedin.com/in/adnanrashid1/
+<br><Br> Instagram: https://https://www.instagram.com/adnans_techie_studies/
+    
