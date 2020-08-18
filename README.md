@@ -38,7 +38,7 @@ This repository consists of the following notebooks:
 <li> Use dark mode in Jupyter Lab
 <li> Install Jupyter Lab here: https://jupyterhub.readthedocs.io/en/stable/quickstart.html
 </ol>
-<br><br> Note these notebooks will work for Mac and Linux on Windows the Jupyter magics will not work correctly
+<br><br> Note these notebooks will work for Mac and Linux. On Windows the Jupyter magics will not work correctly unless you use WSL (not tested)
 <br><br> Reference: https://eksworkshop.com/
 <br><br> Adnan Study Website: https://adnan.study
 <br><br> LinkedIn: https://www.linkedin.com/in/adnanrashid1/
