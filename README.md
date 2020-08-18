@@ -28,6 +28,9 @@ This repository consists of the following notebooks:
 
 <br><br>
 
+<h1> The notebooks will not render correctly in GitHub </h1>
+<br><br>
+
 <h1> Installation </h1>
 
 <ol>
