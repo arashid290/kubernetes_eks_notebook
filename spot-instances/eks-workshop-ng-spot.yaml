@@ -1,0 +1,23 @@
+apiVersion: eksctl.io/v1alpha5
+kind: ClusterConfig
+metadata:
+  name: eksworkshop-eksctl 
+  region: eu-west-1
+nodeGroups:
+  - name: ng-spot
+    labels:
+      lifecycle: Ec2Spot
+    taints:
+      spotInstance: true:PreferNoSchedule
+    minSize: 2
+    maxSize: 5
+    privateNetworking: true
+    instancesDistribution: 
+      instanceTypes:
+        - m1.large
+        - t3.large
+        - t3.medium
+        - m2.xlarge
+      onDemandBaseCapacity: 0
+      onDemandPercentageAboveBaseCapacity: 0 # all the instances will be Spot Instances
+      spotAllocationStrategy: capacity-optimized # launch Spot Instances from the most availably Spot Instance pools

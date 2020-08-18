@@ -1,0 +1,6 @@
+.ipynb_checkpoints/*
+ecsdemo*
+*/.ipynb_checkpoints/*
+*/*/.ipynb_checkpoints/*
+ipynb_checkpoints
+temp/*

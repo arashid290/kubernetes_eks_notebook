@@ -1,0 +1,20 @@
+---
+apiVersion: eksctl.io/v1alpha5
+kind: ClusterConfig
+
+metadata:
+  name: eksworkshop-eksctl
+  region: eu-west-1
+  version: "1.17"
+  
+
+managedNodeGroups:
+- name: nodegroup
+  instanceType: t3.medium
+  desiredCapacity: 3
+  ssh:
+    allow: true
+    publicKeyName: eksworkshop
+    
+secretsEncryption:
+    keyARN: MASTER_ARN
