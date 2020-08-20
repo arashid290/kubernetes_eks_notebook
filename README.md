@@ -46,6 +46,7 @@ This repository consists of the following notebooks:
 <li> https://aws.amazon.com/sagemaker/pricing/
 </ol>
 
+<h1> About Me </h1>
 <ol>
     <li>Adnan Study Website: https://adnan.study </li>
     <li>LinkedIn: https://www.linkedin.com/in/adnanrashid1/ </li>
