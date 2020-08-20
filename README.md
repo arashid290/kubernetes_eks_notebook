@@ -1,7 +1,5 @@
 
-<h2> Note: Notebooks will not render correctly in GitHub </h2>
-<br><br>
-
+<h2> Notebooks will not render correctly in GitHub </h2>
 <h1> Welcome to Kubernetes on EKS </h1>
 
 This repository consists of the following notebooks:
@@ -48,8 +46,8 @@ This repository consists of the following notebooks:
 <li> https://aws.amazon.com/sagemaker/pricing/
 </ol>
 
-<br><br> Adnan Study Website: https://adnan.study
-<br><br> LinkedIn: https://www.linkedin.com/in/adnanrashid1/
-<br><Br> Instagram: https://www.instagram.com/adnans_techie_studies/
-<br><br> Reference: https://eksworkshop.com/
-    
+<ol>
+    <li>Adnan Study Website: https://adnan.study </li>
+    <li>LinkedIn: https://www.linkedin.com/in/adnanrashid1/ </li>
+    <li>Instagram: https://www.instagram.com/adnans_techie_studies/ </li>
+</ol>   
