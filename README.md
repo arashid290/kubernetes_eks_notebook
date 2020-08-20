@@ -37,8 +37,14 @@ This repository consists of the following notebooks:
 <ol>
 <li> Launch SageMaker using the following template: https://eu-west-1.console.aws.amazon.com/cloudformation/home?region=eu-west-1#/stacks/quickcreate?templateURL=https://adnanstudyimages.s3-eu-west-1.amazonaws.com/Sagemaker-eks.yml&stackName=EKS-Notebook&param_SageMakerNotebookGitRepository=https://github.com/arashid290/kubernetes_eks_notebook.git
 
-This template will launch SageMaker with the repo downloaded and tools installed to start working immediately along with the necessary IAM permissions
-    
+<li>This template will launch SageMaker with the repo downloaded and tools installed to start working immediately along with the necessary IAM permissions
+<li> SageMaker will auto shutdown if idle for more than 1 hour 
+</ol>
+
+<h1> Pricing </h1>
+<ol>
+<li> SageMaker is free for 2 months </li>
+<li> https://aws.amazon.com/sagemaker/pricing/
 </ol>
 
 <br><br> Adnan Study Website: https://adnan.study
