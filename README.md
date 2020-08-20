@@ -1,3 +1,7 @@
+
+<h2> Note: Notebooks will not render correctly in GitHub </h2>
+<br><br>
+
 <h1> Welcome to Kubernetes on EKS </h1>
 
 This repository consists of the following notebooks:
@@ -26,9 +30,6 @@ This repository consists of the following notebooks:
 </ol>
 
 
-<br><br>
-
-<h1> The notebooks will not render correctly in GitHub </h1>
 <br><br>
 
 <h1> Installation </h1>
