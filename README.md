@@ -35,13 +35,14 @@ This repository consists of the following notebooks:
 <h1> Installation </h1>
 
 <ol>
-<li> Important: View these notebooks using JupyterLab ONLY otherwise it will not render correctly and look terrible
-<li> Use dark mode in Jupyter Lab
-<li> Install Jupyter Lab here: https://jupyterhub.readthedocs.io/en/stable/quickstart.html
+<li> Launch SageMaker using the following template: https://eu-west-1.console.aws.amazon.com/cloudformation/home?region=eu-west-1#/stacks/quickcreate?templateURL=https://adnanstudyimages.s3-eu-west-1.amazonaws.com/Sagemaker-eks.yml&stackName=EKS-Notebook&param_SageMakerNotebookGitRepository=https://github.com/arashid290/kubernetes_eks_notebook.git
+
+This template will launch SageMaker with the repo downloaded and tools installed to start working immediately along with the necessary IAM permissions
+    
 </ol>
-<br><br> Note these notebooks will work for Mac and Linux. On Windows the Jupyter magics will not work correctly unless you use WSL (not tested)
-<br><br> Reference: https://eksworkshop.com/
+
 <br><br> Adnan Study Website: https://adnan.study
 <br><br> LinkedIn: https://www.linkedin.com/in/adnanrashid1/
 <br><Br> Instagram: https://www.instagram.com/adnans_techie_studies/
+<br><br> Reference: https://eksworkshop.com/
     
