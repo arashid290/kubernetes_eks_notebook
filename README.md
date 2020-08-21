@@ -28,6 +28,7 @@ This repository consists of the following notebooks:
 <li>Deploying Microservices with AWS EFS
 <li>Encrypting Kubernetes Secrets
 <li> Deploying Jenkins
+<li> CI/CD with CodePipeline
 <li>Final Cleanup
 </ol>
 
