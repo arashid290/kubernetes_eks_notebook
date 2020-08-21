@@ -34,7 +34,7 @@ This repository consists of the following notebooks:
 
 <br><br>
 
-<h1> Installation </h1>
+<h1> 4 Steps to Begin </h1>
 
 <ol>
  <li> Log into your AWS Account
