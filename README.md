@@ -37,30 +37,30 @@ This repository consists of the following notebooks:
 <h1> Installation </h1>
 
 <ol>
-<li> Log into your AWS Account
- 
- ![Console](https://adnanstudyimages.s3.amazonaws.com/a1.png)
- 
-<li> Launch SageMaker using the following template: https://eu-west-1.console.aws.amazon.com/cloudformation/home?region=eu-west-1#/stacks/quickcreate?templateURL=https://adnanstudyimages.s3-eu-west-1.amazonaws.com/Sagemaker-eks.yml&stackName=EKS-Notebook&param_SageMakerNotebookGitRepository=https://github.com/arashid290/kubernetes_eks_notebook.git
-<br><br>
+ <li> Log into your AWS Account
 
-![Cloudformation](https://adnanstudyimages.s3.amazonaws.com/a2.png)
-    
-<li>This template will launch SageMaker with the above downloaded and tools installed. Click on 'JupyterLab' <br><br>
+  ![Console](https://adnanstudyimages.s3.amazonaws.com/a1.png)
 
-![SageMaker](https://adnanstudyimages.s3.amazonaws.com/a3.png)
-  
-<li> Set dark theme in Jupyter
+ <li> Launch SageMaker using the following template: https://eu-west-1.console.aws.amazon.com/cloudformation/home?region=eu-west-1#/stacks/quickcreate?templateURL=https://adnanstudyimages.s3-eu-west-1.amazonaws.com/Sagemaker-eks.yml&stackName=EKS-Notebook&param_SageMakerNotebookGitRepository=https://github.com/arashid290/kubernetes_eks_notebook.git
+ <br><br>
 
-![SageMaker](https://adnanstudyimages.s3.amazonaws.com/a6.png)
-      
-<li> Start Learning! 
+ ![Cloudformation](https://adnanstudyimages.s3.amazonaws.com/a2.png)
+
+ <li>This template will launch SageMaker with the above downloaded and tools installed. Click on 'JupyterLab' <br><br>
+
+ ![SageMaker](https://adnanstudyimages.s3.amazonaws.com/a3.png)
+
+ <li> Set dark theme in Jupyter
+
+ ![SageMaker](https://adnanstudyimages.s3.amazonaws.com/a6.png)
+
+ <li> Start Learning! 
 </ol>
 
 <h1> Pricing </h1>
 <ol>
-<li> SageMaker is free for 2 months </li>
-<li> https://aws.amazon.com/sagemaker/pricing/
+ <li> SageMaker is free for 2 months </li>
+ <li> https://aws.amazon.com/sagemaker/pricing/
 </ol>
 
 <h1> Information </h1>
@@ -74,11 +74,13 @@ This repository consists of the following notebooks:
 </ol>
 
 <h1> About Me </h1>
+
 <ol>
-<li>Adnan Study Website: https://adnan.study </li>
-![SageMaker](https://adnanstudyimages.s3.amazonaws.com/a5.png)
+ <li>Adnan Study Website: https://adnan.study 
  
-<li>LinkedIn: https://www.linkedin.com/in/adnanrashid1/ </li>
-<li>Instagram: https://www.instagram.com/adnans_techie_studies/ </li>
-<li>Reference: https://eksworkshop.com/
+ ![HomePage](https://adnanstudyimages.s3.amazonaws.com/a5.png)
+ 
+ <li>LinkedIn: https://www.linkedin.com/in/adnanrashid1/ 
+ <li>Instagram: https://www.instagram.com/adnans_techie_studies/ 
+ <li>Reference: https://eksworkshop.com/
 </ol>   
